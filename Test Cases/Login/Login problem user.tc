@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login saucedemo.com using credential problem user</description>
+   <name>Login problem user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6a5b33d-4772-4a55-97b7-09066824233e</testCaseGuid>
+</TestCaseEntity>

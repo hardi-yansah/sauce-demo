@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "5ABBFC6D4805A12982E87CFC36113CD2",
+  "keywordClasses": [
+    {
+      "name": "saucedemo.browser",
+      "keywordMethods": [
+        {
+          "name": "launchBrowser",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "navigateUrl",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

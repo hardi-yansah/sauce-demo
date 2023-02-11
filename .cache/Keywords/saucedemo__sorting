@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "8C1BFB2BACAC3A23134AC0C7B3541225",
+  "keywordClasses": [
+    {
+      "name": "saucedemo.sorting",
+      "keywordMethods": [
+        {
+          "name": "listSorting",
+          "parameters": [
+            {
+              "name": "filter",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "2B0449AC2CDF26E143CC22D8E8F6289D",
+  "keywordClasses": [
+    {
+      "name": "saucedemo.logout",
+      "keywordMethods": [
+        {
+          "name": "doLogout",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
