@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>obj_product_name</name>
+   <name>obj_details_price</name>
    <tag></tag>
-   <elementGuidId>1f5074df-3d5a-43fc-ac1c-0a4b7a9e41f4</elementGuidId>
+   <elementGuidId>afd43f80-6bbb-4969-a322-658461c023a6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[@class = 'inventory_item_name' and (text() = '${item_name}' or . = '${item_name}')]</value>
+         <value>//div[@class = 'inventory_details_price']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,22 +18,14 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8c4617ad-6a7c-4574-b6c5-bfc2f1d85555</webElementGuid>
+      <webElementGuid>122bbbb7-105a-4d68-a870-9dfe9ba0c331</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>inventory_item_name</value>
-      <webElementGuid>c591223c-2238-44cd-9ec8-b3da548ec597</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>${item_name}</value>
-      <webElementGuid>2908d9d4-dbb4-4a4d-9dce-b295e85daee3</webElementGuid>
+      <value>inventory_details_price</value>
+      <webElementGuid>bbb50207-a5b6-4823-9b0a-0ade4a1f2533</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

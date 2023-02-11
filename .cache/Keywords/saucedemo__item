@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0F9B9BB536A20C058C2FAAD946DFAC5F",
+  "keywordClasses": [
+    {
+      "name": "saucedemo.item",
+      "keywordMethods": [
+        {
+          "name": "viewItemDetail",
+          "parameters": [
+            {
+              "name": "itemName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

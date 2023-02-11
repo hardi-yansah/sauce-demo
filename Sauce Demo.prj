@@ -6,6 +6,7 @@
    <UUID>77061db1-d996-4f1b-967a-9a573ef1f956</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\monex\projects\SauceDemo\Sauce Demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

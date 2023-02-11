@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>obj_product_name</name>
+   <name>obj_details_product_name</name>
    <tag></tag>
-   <elementGuidId>1f5074df-3d5a-43fc-ac1c-0a4b7a9e41f4</elementGuidId>
+   <elementGuidId>1b5a6148-046e-46f3-86c7-b35a3b03d51c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[@class = 'inventory_item_name' and (text() = '${item_name}' or . = '${item_name}')]</value>
+         <value>//div[@class = 'inventory_details_name large_size']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,22 +18,14 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8c4617ad-6a7c-4574-b6c5-bfc2f1d85555</webElementGuid>
+      <webElementGuid>258808c3-54a1-4141-8507-f1a6023ef489</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>inventory_item_name</value>
-      <webElementGuid>c591223c-2238-44cd-9ec8-b3da548ec597</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>${item_name}</value>
-      <webElementGuid>2908d9d4-dbb4-4a4d-9dce-b295e85daee3</webElementGuid>
+      <value>inventory_details_name large_size</value>
+      <webElementGuid>eb6880d6-1c20-4dc2-85c5-d6d384c9e10b</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
