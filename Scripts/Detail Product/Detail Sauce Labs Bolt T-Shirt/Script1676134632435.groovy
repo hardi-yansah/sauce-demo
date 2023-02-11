@@ -17,11 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'saucedemo.browser.launchBrowser'()
-
-CustomKeywords.'saucedemo.browser.navigateUrl'()
-
-CustomKeywords.'saucedemo.login.performLogin'('standard_user', 'secret_sauce')
-
-CustomKeywords.'saucedemo.item.viewItemDetail'('Sauce Labs Backpack')
-
+CustomKeywords.'saucedemo.item.viewItemDetail'('Sauce Labs Bolt T-Shirt')
