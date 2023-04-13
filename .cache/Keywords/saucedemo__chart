@@ -1,14 +1,14 @@
 {
-  "keywordFileContentHash": "69FC5BA063C861D80E7D1714EE6B3FDF",
+  "keywordFileContentHash": "24AC4B372382BF16087FEB7E272CFECB",
   "keywordClasses": [
     {
-      "name": "saucedemo.login",
+      "name": "saucedemo.chart",
       "keywordMethods": [
         {
-          "name": "performLogin",
+          "name": "addToChart",
           "parameters": [
             {
-              "name": "username",
+              "name": "actionCart",
               "initialExpression": "",
               "type": {
                 "fullClassName": "java.lang.Object",
@@ -21,7 +21,20 @@
               }
             },
             {
-              "name": "password",
+              "name": "itemName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "itemObject",
               "initialExpression": "",
               "type": {
                 "fullClassName": "java.lang.Object",

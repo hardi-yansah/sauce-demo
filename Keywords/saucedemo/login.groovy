@@ -6,7 +6,6 @@ import com.kms.katalon.core.annotation.Keyword
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.util.KeywordUtil
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.sun.org.apache.xpath.internal.compiler.Keywords
 
 public class login
 {

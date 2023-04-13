@@ -15,8 +15,11 @@ public class item
 	@Keyword
 	def viewItemDetail (itemName)
 	{
-		KeywordUtil.logInfo("Click item name")		
+		KeywordUtil.logInfo("Click item name")
+		WebUI.scrollToElement(findTestObject('Object Repository/Inventory Page/obj_product_name', [('item_name'):itemName]), 2)
 		WebUI.click(findTestObject('Object Repository/Inventory Page/obj_product_name', [('item_name'):itemName]))
+
+		WebUI.takeScreenshot()
 
 		KeywordUtil.logInfo('Verify the item name')
 		WebUI.verifyElementVisible(findTestObject('Object Repository/Inventory Page/obj_details_product_name'))

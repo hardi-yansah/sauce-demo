@@ -23,5 +23,5 @@ CustomKeywords.'saucedemo.browser.navigateUrl'()
 
 CustomKeywords.'saucedemo.login.performLogin'('standard_user', 'secret_sauce')
 
-CustomKeywords.'saucedemo.item.viewItemDetail'('Sauce Labs Backpack')
+CustomKeywords.'saucedemo.chart.addToChart'('', 'Sauce Labs Backpack', 'sauce-labs-backpack')
 
