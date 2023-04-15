@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//div[@class = 'inventory_item_name' and (text() = '${item_name}' or . = '${item_name}')]</value>
+         <value>//div[@class = 'inventory_item_name']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,7 +18,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8c4617ad-6a7c-4574-b6c5-bfc2f1d85555</webElementGuid>
+      <webElementGuid>f6528fd2-89dc-4359-a1ca-f0a411071126</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -26,14 +26,14 @@
       <name>class</name>
       <type>Main</type>
       <value>inventory_item_name</value>
-      <webElementGuid>c591223c-2238-44cd-9ec8-b3da548ec597</webElementGuid>
+      <webElementGuid>2ff91e20-f6fd-4e09-90b4-9b77f8fa3d0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
       <value>${item_name}</value>
-      <webElementGuid>2908d9d4-dbb4-4a4d-9dce-b295e85daee3</webElementGuid>
+      <webElementGuid>053b445d-d252-4d80-a620-2eec816442ba</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
